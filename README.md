@@ -1,5 +1,3 @@
-# Netflix-clone
-
 
 # Netflix Clone HTML Page
 
